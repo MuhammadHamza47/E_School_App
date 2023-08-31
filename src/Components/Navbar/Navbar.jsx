@@ -38,7 +38,7 @@ function Navbar() {
             </div>
         </nav>
         <div className="container my-5" id="after-nav">
-        <div className="row flex-column-reverse flex-lg-row">
+        <div className="row flex-column-reverse flex-lg-rowgit ">
           <div className="col-12 col-sm-10 col-md-10 col-lg-6">
             <p style={{ color: 'red' }}>Are you ready to Learn?</p>
             <h1 style={{ fontSize: '70px' }}>Learn With fun on <span style={{ color: 'rgba(34, 185, 118, 1)' }}>any
